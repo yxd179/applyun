@@ -1,2 +1,0 @@
-# applyun
-mmall_learning
